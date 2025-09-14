@@ -1,0 +1,41 @@
+/* EXTERNAL CSS*/
+
+h3 {
+    color: aqua;
+}
+
+/*ELEMENT SELECTOR*/
+
+h4 {
+    color: #e51cff;
+    font-style: italic;
+}
+
+/*CLASS SELECTOR*/
+
+.myclass {
+    color: #53115c;
+    font-style: italic;
+}
+
+/*ID SELECTOR*/
+
+#myid {
+    color: #0011ff;
+    font-style: italic;
+}
+
+/*GROUP SELECTOR*/
+
+h6,
+p {
+    color: #ff0000;
+    font-style: italic;
+}
+
+/*GROUP SELECTOR*/
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
