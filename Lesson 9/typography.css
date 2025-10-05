@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    font-family: monospace;
+}
+
+
+#Shadow {
+    text-shadow: 5px 5px 4px rgb(0, 0, 0);
+}
+
+#Shadow-Box {
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+#Another {
+    text-indent: 50%;
+}
